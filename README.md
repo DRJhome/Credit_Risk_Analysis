@@ -23,3 +23,4 @@ Credit risk is is very tough to predict. It has always been a very risky transac
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/91449005/156099226-ef08e4f9-a86b-4dab-a163-9365b111da80.png">
 
 ## Summary:
+In the first five models the accuracy ranged from only 51% to 78%. This clearly shows that the bank should not use these methods for determing the risk of loans. When we ran the Easy Ensemble AdaBoost Classifier, the accuracy rate far exceeded the other models by jumping up to 92.5%. I would reccomend the bank use the Easy Ensemble model due to its accuracy, and good balance of precision & recall scores.
